@@ -8,3 +8,16 @@ FWECT Dataset containing the quarterly data submitted to the Equine Quarterly Di
 *period_quarter*: data submission quarter  
 *count_tested*: integer value of total tests performed by reporting laboratory  
 *count_positive*: integer value of total tests detected positive by reporting laboratory  
+## data_eqdsr_questionnaire.csv
+Questionnaire dataset related to laboratory parameters for FWECT submissions and testing.  
+Missing data is depicted by blank entries  
+All laboratory ID's (*lab*) used in the study have been included with responses received up to and including lab 37 in row 19 (incl. header row).  
+*method*: method/s used for diagnosis  
+*volume_faeces_requested*: volumne of faeces requested by laboratory for testing  
+*volume_faeces_tested*: volumne of faeces tested by laboratory    
+*multiplication_factor_epg_estimate*: multiplication factor used in eggs per gram estimate calculation  
+*epg_level_strongyle_eqr_positive*: eggs per gram level and above considered as a positive finding - strongyles  
+*threshold_level*:   author classification for *epg_level_strongyle_eqr_positive* classing into ≥0 to <100 epg (level 1, referent baseline), ≥100 to <300 epg (level 2), ≥300 epg (level 3)
+*epg_level_ascarid_eqr_positive*: eggs per gram level and above considered as a positive finding - ascarids  
+*epg_level_advising_strongyles_treatment*: eggs per gram level and above at which treatment is advised - strongyles  
+*epg_level_advising_ascarid_treatment*: eggs per gram level and above at which treatment is advised - ascarids  
