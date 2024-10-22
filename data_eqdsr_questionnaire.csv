@@ -1,0 +1,39 @@
+﻿lab,method,volume_faeces_requested,volume_faeces_tested,multiplication_factor_epg_estimate,epg_level_strongyle_eqr_positive,threshold_level,epg_level_ascarid_eqr_positive,epg_level_advising_strongyles_treatment,epg_level_advising_ascarid_treatment
+2,Modified McMaster,3,,x100,50,1,50,500,500
+4,"Moredun modified McMaster and
+OCT",10,3,x30,30,1,30,unknown,unknown
+6,McMaster,12,3,x25,25,1,25,unknown,unknown
+9,Modified McMaster,50,,x100 or x50,1,1,1,vet advises,vet advises
+12,McMaster,5,,x100,50,1,referred,300,referred
+25,McMaster,golf ball sized,,x50,50,1,50,200,200
+29,Modified McMaster,5 large pinches,,x50,50,1,50,200,200
+17,McMaster,10,3,x100,100,2,100,200,200
+15,,,,,100,2,,,
+7,"McMaster, Ovatec ",golf ball sized,,"McMaster x50, Ovatec x25",200,3,200,200,200
+20,Modified McMaster,,,,200,3,,vet advises,vet advises
+22,Ovatec,2,,x10,200,3,200,200,200
+30,Modified McMaster,5,use all of what is sent,x25 or x50,200,3,50,200,50
+35,,,,,200,3,,,
+31,,,,,200,3,,,
+19*,McMaster,large pinch,,x25,300,4,300,300,300
+11,,,,,300,4,,,
+37,,,,,400,4,,,
+43,,,,,,,,,
+32,,,,,,,,,
+42,,,,,,,,,
+34,,,,,,,,,
+39,,,,,,,,,
+8,,,,,,,,,
+10,,,,,,,,,
+13,,,,,,,,,
+36,,,,,,,,,
+33,,,,,,,,,
+14,,,,,,,,,
+16,,,,,,,,,
+45,,,,,,,,,
+18,,,,,,,,,
+21,,,,,,,,,
+46,,,,,,,,,
+27,,,,,,,,,
+28,,,,,,,,,
+24,,,,,,,,,
