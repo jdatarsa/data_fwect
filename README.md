@@ -13,8 +13,8 @@ Questionnaire dataset related to laboratory parameters for FWECT submissions and
 Missing data is depicted by blank entries  
 All laboratory ID's (*lab*) used in the study have been included with responses received up to and including lab 37 in row 19 (incl. header row).  
 *method*: method/s used for diagnosis  
-*volume_faeces_requested*: volumne of faeces requested by laboratory for testing  
-*volume_faeces_tested*: volumne of faeces tested by laboratory    
+*volume_faeces_requested*: volume of faeces requested by laboratory for testing  
+*volume_faeces_tested*: volume of faeces tested by laboratory    
 *multiplication_factor_epg_estimate*: multiplication factor used in eggs per gram estimate calculation  
 *epg_level_strongyle_eqr_positive*: eggs per gram level and above considered as a positive finding - strongyles  
 *threshold_level*:   author classification for *epg_level_strongyle_eqr_positive* classing into ≥0 to <100 epg (level 1, referent baseline), ≥100 to <300 epg (level 2), ≥300 epg (level 3)
